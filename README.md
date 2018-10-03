@@ -10,7 +10,6 @@ Implemented Models:
 5. Attention-Based Bidirectional RNN [[paper](http://www.aclweb.org/anthology/P16-2034)]
 6. RCNN [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552)]
 
-Semi-supervised text classification(Transfer learning) models are implemented at [[dongjun-Lee/transfer-learning-text-tf]](https://github.com/dongjun-Lee/transfer-learning-text-tf).
 
 
 ## Requirements
@@ -42,7 +41,6 @@ Model    | WordCNN    | CharCNN   | VDCNN    | WordRNN   | AttentionRNN | RCNN  
 :---:    | :---:      | :---:     | :---:    | :---:     | :---:        | :---:   | :---:    | :---:    |
 Accuracy | 98.42%     | 98.05%    | 97.60%   | 98.57%     | 98.61%      | 98.68% | 98.88%    | 98.86%   |
 
-(SA-LSTM and LM-LSTM are implemented at [[dongjun-Lee/transfer-learning-text-tf]](https://github.com/dongjun-Lee/transfer-learning-text-tf).)
 
 
 ## Models
